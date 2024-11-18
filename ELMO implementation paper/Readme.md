@@ -1,0 +1,1 @@
+This Folder contains the ELMO Implementation of the paper https://arxiv.org/abs/1802.05365 . Note that this is not the exact copy of the Architecture There are some changes that have been made like not using hyperparams at one or 2 places
