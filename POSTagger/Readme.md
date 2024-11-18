@@ -1,1 +1,1 @@
-This Folder contains the implementation of a naive POSTagger on the conlu dataset where the label is one of the five(Noun,Pronoun etc.)
+This Folder contains the implementation of a naive POSTagger on the conlu dataset where the label is one of the five(Noun,Pronoun etc.). This has been done with the help of LSTM and then attaching a dense layer at the LSTM's output
