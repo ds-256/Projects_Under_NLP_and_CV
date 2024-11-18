@@ -1,0 +1,1 @@
+This folder contains the implementation of SKip Gram with Negative sampling paper https://arxiv.org/pdf/1310.4546 . Here the window size varies from 5-9 and can be observed that too much of context and too less of context is not the answer.
