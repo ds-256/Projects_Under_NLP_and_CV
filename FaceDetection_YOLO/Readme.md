@@ -1,0 +1,1 @@
+The respective .ipynb file contains the face detection application of openCV's haarcascade on a random video. Also by using IOU we are calculating the no of unique faces.Also from ultralytics library we can use YOLO v8 nano and medium being used for object detection
