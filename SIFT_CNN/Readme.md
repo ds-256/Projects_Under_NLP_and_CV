@@ -1,0 +1,1 @@
+The respective .ipynb file contains the SIFT Bag of Words Implementation and CNN(LeNet) implementation on the MNIST dataset. Also the comparison has been made when isntead of LeNet transformer.encoder layer is used
